@@ -22,6 +22,7 @@ Several quick start options are available:
 
 
 ## Change log
+Version 0.7 - Name Changed
 Version 0.7-beta - Initial Release 
 
 
