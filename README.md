@@ -1,8 +1,8 @@
-<!--<p align="center">
+<p align="center">
     <a href="https://www.mainhtml.dev/project/">
-        <img src="https://www.mainhtml.dev/image/mainhtml-logo.png" alt="Main HTML Logo" width="1075" height="300">
+        <img src="https://www.mainhtml.dev/images/mainhtml-logo.png" alt="Main HTML Logo" width="1075" height="300">
     </a>
-</p>-->
+</p>
 
 <h1 align="center">Main Emojis</h1>
 Main Emojis offers you tiny file sizes that represent plain emojis, but also easily copy/pastable unicode entities so you can paste emojis almost anywhere, CMS, WYSIWG editors or HTML directly. Main Emoji are there if you need a few simple plain looking emoji for your website, helping to keep it professional while still staying familiar and easily recognisable.
